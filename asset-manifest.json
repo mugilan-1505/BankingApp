@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BankingAppgit%20push%20-u%20origin%20main/static/css/main.4de3f07f.css",
+    "main.js": "/BankingAppgit%20push%20-u%20origin%20main/static/js/main.e0a8e3e3.js",
+    "index.html": "/BankingAppgit%20push%20-u%20origin%20main/index.html",
+    "main.4de3f07f.css.map": "/BankingAppgit%20push%20-u%20origin%20main/static/css/main.4de3f07f.css.map",
+    "main.e0a8e3e3.js.map": "/BankingAppgit%20push%20-u%20origin%20main/static/js/main.e0a8e3e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4de3f07f.css",
+    "static/js/main.e0a8e3e3.js"
+  ]
+}
